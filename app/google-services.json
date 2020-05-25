@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1046152297191",
+    "firebase_url": "https://photosave-e86d3.firebaseio.com",
+    "project_id": "photosave-e86d3",
+    "storage_bucket": "photosave-e86d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046152297191:android:52a03a92c5bfb7510d4042",
+        "android_client_info": {
+          "package_name": "com.example.photosave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1046152297191-r4737q21b34m8t2cdd4l4uqunphvdjst.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photosave",
+            "certificate_hash": "dbff35e38ad5b9cd898fd1e27f8d8181a900992a"
+          }
+        },
+        {
+          "client_id": "1046152297191-bv4pe7ra7tfsbqdltmcl2ds7qak9afrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGOB_2Os53JdhnE76uv6Qvn6ruHMOE_Io"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1046152297191-bv4pe7ra7tfsbqdltmcl2ds7qak9afrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
