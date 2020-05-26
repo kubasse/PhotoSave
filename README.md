@@ -1,11 +1,13 @@
 # PhotoSave
-It is an android application which uploads photo from camera or gallery to Firebase Storage.
+It is An Android app that sends photos from camera or gallery to Firebase Storage.
 
 # Built with:
 * Android Studio
 * Java
 * Google Firebase API
 * Firebase Storage
+* Firebase Authentication with Google Account
+
 
 # How it works:
 
