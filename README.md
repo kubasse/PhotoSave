@@ -6,6 +6,8 @@ Android app which upload photo from camera or gallery to Firebase Storage
 * Google Firebase API
 
 # Screenshots:
+
+<a href=https://zapodaj.net/a8f8c60eab16f.jpg.html>1.jpg</a>
 <img src="https://i.ibb.co/2jrhZbF/11.png" alt="11" border="0">
 <img src="https://i.ibb.co/QpdN44f/3.jpg" alt="3" border="0">
 <img src="https://i.ibb.co/RTrzNJ0/1.jpg" alt="1" border="0">
