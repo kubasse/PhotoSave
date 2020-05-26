@@ -16,7 +16,7 @@ Authentication with Firebase using Google Accounts:
 </p>
 
 <p align="center">
-  <img width="250" height="430" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/101223995_551798308859074_1075147918983299072_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=4ezKWu1UxZ4AX8Anw8L&_nc_ht=scontent-waw1-1.xx&oh=0fb580f686f4b81a7dbf4202928f639e&oe=5EF217F4">
+  <img src="https://imgur.com/1rYaMeC">
    <img width="250" height="430" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/100508759_692037118315699_2561874973325000704_n.jpg?_nc_cat=109&_nc_sid=b96e70&_nc_ohc=WCV3FbNIZ38AX8IVxQN&_nc_ht=scontent-waw1-1.xx&oh=7426f20882b7a6314c234b05dae620ab&oe=5EF3A414">
 </p>
 
