@@ -31,7 +31,23 @@ Menu after logging in, with a message indicating successful login:
 
 <br><br>
 <p align="center">
-Redirection to the camera after pressing the "CAMERA" button :
+After pressing the "CAMERA" button you need to agree to use the camera 
+</p>
+<p align="center">
+otherwise  you will not be able to be redirected to it
+</p>
+<p align="center">
+and a message informing you that you didin't agree to use the camera will be displayed: 
+</p>
+
+<p align="center">
+  <img width="250" height="430" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/100560830_711599826266256_300498379002085376_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=HG7oT9mKk2sAX9mZ2nT&_nc_ht=scontent-waw1-1.xx&oh=49125c59c11006ebd1dcc6cc6cae4380&oe=5EF13088">
+  <img width="250" height="430" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/100488036_200146444348895_3980351509819817984_n.jpg?_nc_cat=105&_nc_sid=b96e70&_nc_ohc=trk4oDbJi7kAX_e3vQn&_nc_ht=scontent-waw1-1.xx&oh=cd9320c6839ab0c4169146551db69840&oe=5EF398EB">
+</p>
+
+<br><br>
+<p align="center">
+Redirection to the camera after agreement to use it :
 </p>
 
 <p align="center">
@@ -51,6 +67,10 @@ After the message disappears, the photo is downloaded from the database and disp
    <img width="250" height="430" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/100743350_667481440768478_3029765940297334784_n.jpg?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=fGHxEbrkWp0AX-MHqRX&_nc_ht=scontent-waw1-1.xx&oh=66100f9d0f123f6f7c7d6654cac94bdb&oe=5EF23A1B">
  <img width="250" height="430" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/100703787_342479086730310_5087304456198946816_n.jpg?_nc_cat=101&_nc_sid=b96e70&_nc_ohc=zLYE9glWGMIAX-uQVM2&_nc_ht=scontent-waw1-1.xx&oh=d09837963176eb7d3657120b1c8da5f2&oe=5EF0FB14">
 </p>
+<br>
+<p align="center">
+After pressing the "GALLERY" button the action will be similar, but instead of taking a photo we choose one from our private gallery.
+</p>
 
 <br><br>
 <p align="center">
@@ -58,7 +78,7 @@ Firebase Storage:
 </p>
 
 <p align="center">
-   <img width="650" height="430" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/101535827_251158776138392_5504192836855136256_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=0seUzweE9v4AX_BwYpT&_nc_ht=scontent-waw1-1.xx&oh=d6805bb1328ece285d0f92a381cd6cb5&oe=5EF30F8A">
+   <img width="800" height="550" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/101535827_251158776138392_5504192836855136256_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=0seUzweE9v4AX_BwYpT&_nc_ht=scontent-waw1-1.xx&oh=d6805bb1328ece285d0f92a381cd6cb5&oe=5EF30F8A">
   
 </p>
   
