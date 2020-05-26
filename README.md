@@ -19,7 +19,7 @@ Authentication with Firebase using Google Accounts:
 </p>
 
 
-  
+<br><br>
 <p align="center">
 Menu after logging in, with a message indicating successful login:
 </p>
@@ -29,6 +29,7 @@ Menu after logging in, with a message indicating successful login:
 </p>
   
 
+<br><br>
 <p align="center">
 Redirection to the camera after pressing the "CAMERA" button :
 </p>
@@ -38,6 +39,7 @@ Redirection to the camera after pressing the "CAMERA" button :
 </p>
   
 
+<br><br>
 <p align="center">
 Redirection to the menu, with a message indicating successful uploading of photo to Firebase Storage:
 </p>
@@ -46,7 +48,8 @@ Redirection to the menu, with a message indicating successful uploading of photo
    <img width="250" height="480" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/100743350_667481440768478_3029765940297334784_n.jpg?_nc_cat=104&_nc_sid=b96e70&_nc_ohc=fGHxEbrkWp0AX-MHqRX&_nc_ht=scontent-waw1-1.xx&oh=66100f9d0f123f6f7c7d6654cac94bdb&oe=5EF23A1B">
 </p>
   
- <p align="center">
+<br><br>
+<p align="center">
 Firebase Storage:
 </p>
 
@@ -55,6 +58,7 @@ Firebase Storage:
   
 </p>
 
+<br><br>
 <p align="center">
 The content of the gallery after pressing the "GALLERY" button is displayed as follows:
 </p>
@@ -63,7 +67,7 @@ The content of the gallery after pressing the "GALLERY" button is displayed as f
    <img width="250" height="430" src="https://scontent-waw1-1.xx.fbcdn.net/v/t1.15752-9/100703787_342479086730310_5087304456198946816_n.jpg?_nc_cat=101&_nc_sid=b96e70&_nc_ohc=zLYE9glWGMIAX-uQVM2&_nc_ht=scontent-waw1-1.xx&oh=d09837963176eb7d3657120b1c8da5f2&oe=5EF0FB14">
 </p>
   
-
+<br><br>
 <p align="center">
 View after logging out, with a message indicating successful logout:
 </p>
