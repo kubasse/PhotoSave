@@ -63,7 +63,7 @@ Redirection to the camera after agreement to use it :
 Redirection to the menu, with a message indicating successful uploading of photo to Firebase Storage. 
 </p>
 <p align="center">
-After the message disappears, the photo is downloaded from the database and displayed as below:
+After the message disappears, the photo is downloaded from the storage and displayed as below:
 </p>
 
 <p align="center">
