@@ -17,7 +17,8 @@ Authentication with Firebase using Google Accounts:
 
 <p align="center">
   <img src="https://i.imgur.com/4rjHgoI.png">
-   <img src="https://i.imgur.com/tAL5Qhq.png">
+   <img src="https://i.imgur.com/tAL5Qhq.png"><br>
+  (view after clicking the button)
 </p>
 
 
@@ -54,7 +55,7 @@ Redirection to the camera after agreement to use it :
 
 <p align="center">
    <img src="https://i.imgur.com/Jmc3rKz.png"><br>
-  <font size="5px">(view after making photo)</font>
+  (view after making photo)
 </p>
   
 
