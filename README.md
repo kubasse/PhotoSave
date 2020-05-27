@@ -49,12 +49,12 @@ and a message informing you that you didin't agree to use the camera will be dis
 
 <br><br>
 <p align="center">
-Redirection to the camera after agreement to use it : <br>
-(view after making photo)
+Redirection to the camera after agreement to use it :
 </p>
 
 <p align="center">
-   <img src="https://i.imgur.com/Jmc3rKz.png">
+   <img src="https://i.imgur.com/Jmc3rKz.png"><br>
+  (view after making photo)
 </p>
   
 
