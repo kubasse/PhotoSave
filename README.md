@@ -12,13 +12,12 @@ It is An Android app that sends photos from camera or gallery to Firebase Storag
 # How it works:
 
 <p align="center">
-Authentication with Firebase using Google Accounts: 
+Login via Google Account using Firebase Authentication: 
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/4rjHgoI.png">
    <img src="https://i.imgur.com/tAL5Qhq.png"><br>
-  (view after clicking the button)
 </p>
 
 
