@@ -54,7 +54,7 @@ Redirection to the camera after agreement to use it :
 
 <p align="center">
    <img src="https://i.imgur.com/Jmc3rKz.png"><br>
-  (view after making photo)
+  <font size="3">(view after making photo)</font>
 </p>
   
 
