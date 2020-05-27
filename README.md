@@ -80,7 +80,7 @@ Firebase Storage:
 </p>
 
 <p align="center">
-   <img src="https://i.imgur.com/lOFCcyU.png">
+   <img src="https://i.imgur.com/zXbvj3w.png">
   
 </p>
   
