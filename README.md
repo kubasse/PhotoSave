@@ -50,6 +50,7 @@ and a message informing you that you didin't agree to use the camera will be dis
 <br><br>
 <p align="center">
 Redirection to the camera after agreement to use it :
+(view after making photo)
 </p>
 
 <p align="center">
